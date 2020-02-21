@@ -1,5 +1,5 @@
 # README #
-#Written by Ricardo Williams II#
+# Written by Ricardo Williams II#
 The Humboldt Project outlines a system that can be leveraged to combat phishing campaigns via an
 aggressive counter measure. Most anti-phishing methods rely on a reactive approach. Humboldt on the
 other hand will utilize people to submit fake credentials to phishing sites. In an effort to halt ambitious
